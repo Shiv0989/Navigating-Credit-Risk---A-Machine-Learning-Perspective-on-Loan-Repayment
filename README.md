@@ -14,8 +14,11 @@ The dataset contains various financial and personal attributes including total i
 ## Usage
 
 -> Clone the repository and navigate to the notebook directory.
+
 -> Open the Jupyter notebook.
+
 -> Install the required libraries.
+
 -> Execute the cells in sequence to reproduce the analysis and model training.
 
 ## Models and Evaluation
